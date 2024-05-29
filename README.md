@@ -5,7 +5,7 @@
 ## About Me
 - 🎓 I'm a **3rd year Computer Science student at Polish-Japanese Academy of Information Technology**
 - 💼 I'm also currently working at **Nokia**
-- 🌐 Connect with me on [LinkedIn](www.linkedin.com/in/oliwiawysokinska)
+- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/oliwiawysokinska)
 
 ## Technologies
 - 💻 **Languages**: Java, Python, basics of C# and C++
