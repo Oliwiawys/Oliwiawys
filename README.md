@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋, I'm Oliwia Wysokińska
+- I'm a **3rd year Computer Science student at Polish-Japanese Academy of Information Technology**
+- I'm also currently working at **Nokia**
 
 <!--
 **Oliwiawys/Oliwiawys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
