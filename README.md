@@ -4,13 +4,12 @@
 
 ## About Me
 - 🎓 I'm a **4rd year Computer Science student at Polish-Japanese Academy of Information Technology**
-- 💼 I'm also currently working at **Nokia**
+- 💼 I'm also currently working at **NFQ**
 - 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/oliwiawysokinska)
 
 ## Technologies
 - 💻 **Languages**: Java, Python, basics of C# and C++
 - 🌐 **Web Development**: HTML, CSS, JavaScript, React
-- 📱 **Mobile Development**: Kotlin (Android)
 - 🚀 **Frameworks & Tools**: Spring Boot (Spring JPA, Spring Security, Spring Web), Hibernate, Kubernetes, Helm, Docker
 - 🗃️ **Databases**: MySQL, PostgreSQL
 - 🔄 **Version Control**: Git
