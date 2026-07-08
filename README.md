@@ -3,13 +3,13 @@
 </div>
 
 ## About Me
-- 🎓 I'm a **4rd year Computer Science student at Polish-Japanese Academy of Information Technology**
-- 💼 I'm also currently working at **NFQ**
+- 🎓 I'm a Computer Science graduate, specializing in Business Application Programming**
+- 💼 I'm currently working at **NFQ**
 - 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/oliwiawysokinska)
 
 ## Technologies
-- 💻 **Languages**: Java, Python, basics of C# and C++
+- 💻 **Languages**: Java, Basics of: Python, C# and C++
 - 🌐 **Web Development**: HTML, CSS, JavaScript, React
-- 🚀 **Frameworks & Tools**: Spring Boot (Spring JPA, Spring Security, Spring Web), Hibernate, Kubernetes, Helm, Docker
-- 🗃️ **Databases**: MySQL, PostgreSQL
+- 🚀 **Frameworks & Tools**: Spring Boot, Hibernate, Kubernetes, Helm, Docker
+- 🗃️ **Databases**: MySQL, PostgreSQL, Oracle Database
 - 🔄 **Version Control**: Git
